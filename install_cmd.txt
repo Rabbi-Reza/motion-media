@@ -1,0 +1,2 @@
+npx create-react-app .
+npm i --save axios @material-ui/core
